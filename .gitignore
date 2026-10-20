@@ -1,0 +1,21 @@
+# Python virtual environment
+.venv/
+venv/
+ENV/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Temporary test media
+test_media/
+
+# IDE & Editor files
+.vscode/
+.idea/
+*.swp
+*~
+
+# Model backup duplicate (best.pt sudah dimasukkan)
+best_fire_ember.pt
